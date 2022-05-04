@@ -3,6 +3,9 @@ Como estas?
 Aqui el Draku repasando los fundamentos de Git y Github
 a mis 28 años, vamos dandole parce, con toda hacia Japon.
 
-Buenas Noches Parceros.aQui nos vemos.
+Buenas Noches Parceros. Nos vemos.
 
+Aqui empoezamos Experimentos para el Rebase
+
+Va el Master 1
 
